@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="4" sam_path="G:\X-Plane 11\Custom Scenery\MMEX Texcoco Mexico City International\sam.xml">
+	<airport name="Texcoco Mexico CIty" icao="MMEX" iata="" elevation="0" latitude="1.3350938852575788e-306" longitude="1.7802016863113393e-306" />
+</apt>
